@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "ten": "IP 11",
+    "mota": "ben lau",
+    "giatien": "12.000.000đ",
+    "hinhanh": "hinh1.png"
+  },
+  {
+    "id": 2,
+    "ten": "IP 12",
+    "mota": "ben lau",
+    "giatien": "12.000.000đ",
+    "hinhanh": "hinh2.png"
+  },
+  {
+    "id": 3,
+    "ten": "IP 13",
+    "mota": "ben lau",
+    "giatien": "12.000.000đ",
+    "hinhanh": "hinh3.png"
+  },
+  {
+    "id": 4,
+    "ten": "IP 13",
+    "mota": "ben lau",
+    "giatien": "12.000.000đ",
+    "hinhanh": "hinh4.png"
+  },
+  {
+    "id": 5,
+    "ten": "IP 15",
+    "mota": "ben lau",
+    "giatien": "12.000.000đ",
+    "hinhanh": "hinh5.png"
+  }
+]
